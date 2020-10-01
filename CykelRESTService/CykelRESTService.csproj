@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibraryCykel">
+      <HintPath>..\ClassLibraryCykel\bin\Debug\netcoreapp3.1\ClassLibraryCykel.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>
